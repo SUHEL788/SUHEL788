@@ -42,10 +42,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.vmware.com/cloud-solutions" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/VMware_Logo.svg" alt="VMware" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Oracle_Logo.svg" alt="oracle-cloud" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle-cloud" width="40" height="40"/>
   </a>
 </p>
 
