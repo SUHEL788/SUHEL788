@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm SUHEL KHAN</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
+
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=suhel788" alt="suhel788" />
